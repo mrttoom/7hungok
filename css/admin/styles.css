@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+.body{
+font-size:10px;	
+	}
+.link
+{
+	text-decoration: none;
+	/*font-weight: bold;*/
+	color: #2b7c98;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;	
+}
+.link:hover
+{
+	text-decoration: none;	
+	
+	color: #000000;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.link:active
+{
+	text-decoration:none;
+	font-weight:bold;
+	color:#F00;
+	font-family:Arial, Helvetica, sans-serif;
+}
+/*
+.link:visited
+{
+	text-decoration:none;
+	font-weight:bold;
+	color:2b7c98;
+	font-family:"Times New Roman", Times, serif;
+}
+*/
+
+.formHeader
+{
+	color:#F00;
+	font-weight:bold;
+	font-family:Tahoma;
+	font-size:80%;
+}
+
+.title_table 
+{	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 14px;	
+	color: #FFFFFF;	
+	line-height: 15px; 
+	padding: 2px 10px 2px 10px; 
+	background-image: url(../../image/table_bg.jpg);
+}  /* table's titles */
+
+.bodytext_table 
+{	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 12px;	
+	color: #505050;	
+	line-height: 21px; 
+	padding: 2px 10px 2px 10px
+}  /* table's bodytext */

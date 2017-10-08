@@ -1,0 +1,22 @@
+#DHTMLgoodies_formTooltipDiv{
+	color:#FFF;
+	font-family:Tahoma, Verdana, Arial;
+	font-weight:bold;
+	font-size:11px;
+	line-height:120%;
+}
+a.DHTMLgoodies_formTooltip_closeMessage{
+	color:#ccc;
+	font-family:Tahoma, Verdana, Arial;
+	font-weight:normal;
+	font-size:10px;
+	text-decoration:none;
+}
+a.DHTMLgoodies_formTooltip_closeMessage:hover{
+	color:#000;
+	text-decoration:underline;
+}
+
+#mainContainer{
+	width:760px;
+}

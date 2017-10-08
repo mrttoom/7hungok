@@ -1,0 +1,140 @@
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-size:14px;
+	color: #000000;
+	margin: 0px;
+	background-image: url(../images1/bg1.jpg);
+}
+table {
+	font-family: Tahoma;
+	font-size:11px;
+}
+
+
+
+#amenutrai {
+	height: 28px;
+		
+	border-bottom-style: none;
+	border-bottom-color: #CCCCCC;
+
+}
+#amenutrai:hover {
+
+}
+
+#amenutrai2 {
+	height: 28px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+#amenutrai2:hover {
+}
+
+#amenutop {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #CCCCCC;
+	height: 20px;
+}
+#amenutop:hover {
+
+}
+#amdtrai {
+	background-image: url(../images1/mn3.gif);
+	height: 30px;
+}
+#amdtrai:hover {
+
+}
+
+#amdtrai2 {
+	background-image: url(../images1/mn3.gif);
+	height: 30px;
+}
+#amdtrai2:hover {
+
+}
+
+
+
+#amdphai {
+	height: 25px;
+	background-image: url(../images1/shade.gif);
+}
+#amdphai:hover {
+
+}
+
+#asanpham {
+	background-image: url(../images1/TITLE.png);
+	height: 27px;
+	background-repeat: no-repeat;
+}
+#aasanpham {
+	background-image: url(../images1/TITLE.png);
+	height: 27px;
+	background-repeat: no-repeat;
+	font-family: Tahoma;
+	font-size:13px;
+        font-weight:bold;
+        color:#68070e;
+
+}
+#asanpham:hover{
+}
+
+#achitiet {
+	color:#990000;
+	font-weight:bold;
+	padding-left:3px;
+	text-decoration:none;
+}
+
+#achitiet:hover {
+	color:#990000;
+	font-weight:bold;
+	padding-left:3px;
+	text-decoration:none;
+}
+#ake {
+	height: 25px;
+	border-bottom-width: 1px;
+	border-bottom-color: #CCCCCC;
+	border-bottom-style: solid;
+}
+
+
+#bomenu {
+	border-style: solid;
+	border-color: #CCCCCC;
+	border-width: 0px;
+	background-image: url(../images1/n.jpg);
+}
+#bomd {
+border-style: solid;
+	border-color: #CCCCCC;
+	border-width: 1px;
+}
+
+#bosanpham {
+border-style: solid;
+	border-color: #cccccc;
+	border-width: 1px;
+}
+#bochinh{
+border-style: solid;
+	border-color: #cccccc;
+	border-width: 1px;
+}
+
+
+
+
+
+
+
+
+
+

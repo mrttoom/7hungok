@@ -1,0 +1,4 @@
+AuthName "**********"
+AuthUserFile "/home/nguoimie/.htpasswds/public_html/vuatraicaybayhung.com/admin/passwd"
+AuthType Basic
+require valid-user

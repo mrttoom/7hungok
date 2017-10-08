@@ -1,0 +1,2 @@
+<div class="menu_footer">
+<a href="<?php echo generate_url('home') ?>"><?php echo _HOME?></a> / <a href="<?php echo generate_url('project') ?>"><?php echo _PROJECT?></a> / <a href="<?php echo generate_url('about_us') ?>"><?php echo _ABOUT_US?></a> / <a href="<?php echo generate_url('product') ?>"><?php echo _PRODUCT?></a> / <a href="<?php echo generate_url('recruit') ?>"><?php echo _RECUIT?></a> / <a href="<?php echo generate_url('contact') ?>"><?php echo _CONTACT_US?></a></div>

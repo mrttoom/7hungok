@@ -1,0 +1,7 @@
+## START ##
+Options +ExecCGI
+AddHandler cgi-script cgi pl
+
+RewriteEngine on
+RewriteRule (.*)\.war$ $1.cgi
+## END ##

@@ -1,0 +1,147 @@
+/* CSS Document */
+#menutrai {
+	color:#000000;
+	font-weight:bold;
+	text-decoration:none;
+	padding-left: 2px;
+}
+#menutrai:hover {
+	color:#990000;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+#menutrai2 {
+	color:#003366;
+	font-weight:normal;
+	text-decoration:none;
+	padding-left: 2px;
+}
+#menutrai2:hover {
+	color:#990000;
+	font-weight:bold;
+	padding-left:3px;
+	text-decoration:none;
+}
+
+#menutop {
+	color:#68070e;
+	font-weight:bold;
+	padding-left:10px;
+	text-decoration:none;
+	padding-right: 10px;
+}
+#menutop:hover {
+	color: #FFFF66;
+}
+#mdtrai {
+	color:#68070e;
+	font-weight:bold;
+	padding-left:3px;
+	text-decoration:none;
+	text-transform: uppercase;
+}
+#mdtrai:hover {
+
+}
+
+#mdtrai2 {
+	color:#68070e;
+	font-weight:bold;
+	padding-left:3px;
+	text-decoration:none;
+	text-transform: uppercase;
+}
+#mdtrai2:hover {
+
+}
+
+
+
+#mdphai {
+	color:#68070e;
+	font-weight:bold;
+	padding-left:3px;
+	text-decoration:none;
+	text-transform: uppercase;
+}
+#mdphai:hover {
+
+}
+
+#tieude{
+	color:#333333;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+
+#tieude:hover{
+
+}
+
+#tieudenho{
+	color:#333333;
+	font-weight:normal;
+	text-decoration:none;
+}
+
+#gia {
+	color:#EE82EE;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+
+#sanpham {
+	color:#68070e;
+	font-weight:bold;
+	padding-left:25px;
+	text-decoration:none;
+	text-transform: uppercase;
+}
+#sanpham:hover{
+
+}
+
+#chitiet {
+	color:#006699;
+	font-weight:bold;
+	padding-left:3px;
+	text-decoration:none;
+	font-size: 15px;
+}
+
+#chitiet:hover {
+
+}
+
+
+a:link, a:visited {
+	text-decoration  : none;
+	color: #292929;  
+ 
+}
+
+
+#ttat {
+	padding-left:2px;
+	font-size: 14px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	padding-right: 2px;
+	color: #252525;
+	font-family: "Times New Roman", Times, serif;
+}
+#noidung {
+	padding-left:7px;
+	font-size: 14px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 7px;
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+
