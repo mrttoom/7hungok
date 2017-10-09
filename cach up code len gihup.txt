@@ -1,0 +1,27 @@
+download cai vao may
+git-scm.com
+
+copy link git vua tao
+click phai vao desktop chon Git Bash Here
+
+lenh :
+git clone (va click phai dan link vd: https://github.com/mrttoom/7hungok.git ) enter
+
+no se tao ra 1 thu muc o desktop
+
+go lenh exit thooat soft
+
+- copy code vao thu muc soft tu tao ra tren man hinh
+- click phai vào thu muc do va chon Git Bash here
+- go va lenh: (git add .)
+copy: git commit -m "first commit"   và enter
+
+lenh tiep ( git push)
+
+xong
+
+
+
+
+
+
